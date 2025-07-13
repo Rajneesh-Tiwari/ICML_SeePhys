@@ -389,7 +389,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **ICML 2025 AI for Math Workshop & Challenge 2 - SeePhys** organizers
+- **ICML 2025 AI for Math Workshop & Challenge 2 - SeePhys** organizers (https://www.codabench.org/competitions/7925/?ref=mlcontests#/pages-tab)
 - OpenAI for the o3 and o4-mini model families
 - Google for Gemini 2.5 Pro
 - **LangGraph** for enabling sophisticated agentic workflows
